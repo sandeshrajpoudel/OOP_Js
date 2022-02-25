@@ -1,16 +1,12 @@
-Write a class in your preferred object-orientated language that represents a bank account.
-During instantiating of the object it should receive the details of the person owning the account (e.g. name, dob, etc.) and the account itself (name of the bank, account no, etc. )
-Don't worry about persisting data on storage, just keep all data in memory in the class!
-Provide a method in the class to deposit money on the account.
-Provide a method in the class to deduct money from the account.
-Provide a method to return the current balance.
-Provide a method to return the bank statement.
-Provide a method to transfer money between accounts.
+Write a class in JS that represents a bank account.
+During instantiating of the object it should receive the details
+of the person owning the account (e.g. name, dob, etc.) and the 
+account itself (name of the bank, account no, etc. ) Don't worry
+about persisting data on storage, just keep all data in memory in
+the class!
 
-
-Use your class to create two objects that represent two accounts (Sujal & Rashi) and demonstrate these transaction steps:
-deposit money on the account of Sujal
-transfer part of the money from the account of Sujal to the account of Rashi
-withdraw part of the received money from the account of Rashi
-print bank statement of Sujal's account
-print current balance of Rashi's account
+=> Provide a method in the class to deposit money on the account.
+=> Provide a method in the class to deduct money from the account.
+=> Provide a method to return the current balance.
+=> Provide a method to return the bank statement.
+=> Provide a method to transfer money between accounts.
